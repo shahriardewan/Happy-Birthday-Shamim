@@ -14,8 +14,6 @@ const images = [
     "4.jpg",
     "5.jpg",
     "6.jpg",
-    "7.jpg",
-    "8.jpg"
 ];
 
 let current = 0;
@@ -193,15 +191,15 @@ const popup=document.getElementById("popup");
 
 const typing=document.getElementById("typing");
 
-const message = `Happy Birthday, Eti! 🎉🎂
+const message = `Happy Birthday, bro! 🎂❤️
 
-May Allah always keep you happy, healthy, and blessed. I pray that, little by little, all your dreams and wishes come true.
+Wishing you a year full of happiness, success, good health, and unforgettable memories. I’m genuinely lucky to have a best friend like you. No matter what happens, I hope our friendship always stays the same. 🤝❤️
 
-Stay happy, keep smiling, and enjoy your special day. Wishing you lots of love and best wishes. ❤️🎁
+Keep smiling, keep winning, and keep being the amazing person you are. May all your dreams come true! 🥳🔥
 
-With Love ❤️
+Happy Birthday once again, bro! 🎉🎂❤️
 
-Your Brother
+Your BestFriend
 Shahriar`;
 
 gift.onclick=()=>{
